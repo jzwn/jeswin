@@ -1,0 +1,69 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>St.George's College Aruvithura</title>
+</head>
+<body>
+<div>
+	<h1>St.George's College Aruvithura</h1>
+</div>
+
+	<nav>
+		<ul>
+			<li> <a href="#about">About Our College</a> </li>
+			<li> <a href="#courses">Courses</a> </li>
+			<li> <a href="#faculty">Our Faculty</a> </li>
+			<li> <a href="#departments">Departments</a> </li>
+			<li> <a href="#library">Library</a> </li>
+			<li> <a href="#location">Locate Us </a></li>
+		</ul>
+
+<div id="about">
+	<h3>About College</h3>
+	<marquee> <h5>Ensuring academic excellence by imparting quality education and moulding personalities based on the love of God <h5> </marquee>
+	<p>St. George's College Aruvithura is a college under Mahatma Gandhi University, Kottayam. It is located in Aruvithura, Erattupetta, Kottayam District in Kerala, India. It was reaccredited with 'A++' Grade by NAAC for seven years in the fourth cycle.</p>
+	<p>St. George’s College Aruvithura, is a minority educational institution founded by St. George Forane Church, Aruvithura in 1965. Pioneered under the patronage of His Excellency Mar Sebastian Vayalil, the first Bishop of Pala, and cherished by a host of visionaries and philanthropists like Very Rev. Fr. Thomas Araythinal and Mr T. A. Thomman (Former Minister), the college, right from its inception, embarked on an odyssey towards academic pre-eminence. Very Rev. Fr. Thomas Manakkat, the founding manager and a great visionary, was truly instrumental in laying the foundations for a great beginning and Very Rev. Fr. Jacob Thazhathel, who followed him, was equally adept and insightful in his ideals, guiding the college during the early stages of its growth. For more than two decades, His Excellency Mar Joseph Pallickaparampil, the Bishop of Pala, had been the patron of the college. His Excellency Mar Joseph Kallarangattu is the present patron of this seat of learning.</p>
+</div>
+<div id="departments">
+	<h3>Departments</h3>
+	
+
+	<ul>
+		<li> <a href="https://sgcaruvithura.ac.in/about-department?type=Department%20of%20Computer%20Applications%20(Aided)&department=14" target="_blank"> Department of Computer Applications (Aided)</a></li>
+		<li> <a href="https://sgcaruvithura.ac.in/about-department?type=Department%20of%20Commerce%20(Aided)&department=13" target="_blank">Department of Commerce</a> </li>
+		<li> <a href="https://sgcaruvithura.ac.in/about-department?type=Department%20of%20Mathematics%20(SF)&department=31" target="_blank">Department of Mathematics</a> </li>
+	</ul>
+</div>
+<div id="courses">
+	<h3>Courses Offered</h3>
+	<ol>
+		<li>Bachelor of Computer Applications (BCA)</li>
+		<li>B.Com (Honours) with Specialization in Finance & Taxation</li>
+		<li>B.Sc (Honours) Mathematics</li>
+	</ol>
+</div>
+<div id="library">
+	<h3>Our Library</h3>
+	<p>The library at St. George's College, Aruvithura, has a rich history, having started functioning in 1965. Over the years, it has undergone significant upgrades and expansion to become a first-grade library. In 1978, the post of a first-grade Librarian and a IV-grade librarian were sanctioned, indicating the growing importance of the library as a vital academic resource.
+
+	Today, the library has a vast collection of resources to support the academic programs of the college. There are 32,330 books available on various subjects, including literature, science, technology, history, and philosophy. The library also has 58 periodicals, 250 CDs, and access to 8 newspapers, providing students and staff with access to the latest research and developments in their fields of interest.</p>
+</div>
+
+
+
+<div id="faculty">
+	<h3>Our Faculty</h3>
+
+	<ul>
+		<li> </li>
+	</ul>
+</div>
+
+<div id="loaction">
+        <h3>Locate US</h3>
+<br>
+	e.com/maps/embed?pb=!1m18!1m12!1m3!1d3963.614004024438!2d76.76971297506243!3d9.690572790399573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b07cba8d9fc98ef%3A0x2f960231592026cb!2sSt.%20George&#39;s%20College%20Aruvithura!5e1!3m2!1sen!2sin!4v1739352651057!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+
+
+</body>
+</html>
